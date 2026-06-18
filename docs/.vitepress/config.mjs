@@ -8,7 +8,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    logo: '/logo.svg',
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/intro' }

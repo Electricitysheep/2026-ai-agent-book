@@ -1,0 +1,23 @@
+name: "Bug Report / 内容勘误"
+description: "提交白皮书或项目中的错误"
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "感谢您帮助完善《2026 AI Agent 终极进化史》！"
+  - type: textarea
+    id: description
+    attributes:
+      label: "问题描述"
+      description: "请描述您发现的错误（例如：错别字、链接失效、内容有误等）。"
+      placeholder: "在这里描述问题..."
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: "错误所在章节/页面"
+      description: "请提供出现问题的具体文件或链接"
+    validations:
+      required: true

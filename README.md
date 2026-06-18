@@ -43,7 +43,43 @@
 
 同时，我们也在仓库根目录提供了一份合并好的完整单文件白皮书供离线阅读：[2026_AI_Agent_Landscape_Whitepaper.md](./2026_AI_Agent_Landscape_Whitepaper.md)。
 
-## 💻 本地预览 (Quick Start)
+## 🌐 2026 Agent 生态全景架构 (Ecosystem Architecture)
+
+```mermaid
+graph TD
+    subaxis[终端触达层]
+    subaxis_1(多模态硬件 OS)
+    subaxis_2(PC 桌面原生助理)
+    subaxis_3(微信/企业级超级个体)
+    
+    layer2[编排与平台层]
+    layer2_1(Coze 2.0 / Dify 2.0)
+    layer2_2(MCP 协议总线)
+    layer2_3(Multi-Agent 通信框架)
+    
+    layer3[模型驱动层]
+    layer3_1(DeepSeek-V3/R2)
+    layer3_2(Kimi / MiniMax)
+    layer3_3(Qwen-Max / Hunyuan)
+    
+    subaxis_1 --> layer2
+    subaxis_2 --> layer2
+    subaxis_3 --> layer2
+    
+    layer2_1 --> layer3
+    layer2_2 --> layer3
+    layer2_3 --> layer3
+    
+    classDef top fill:#4a90e2,stroke:#333,stroke-width:2px,color:#fff;
+    classDef mid fill:#50e3c2,stroke:#333,stroke-width:2px,color:#000;
+    classDef bot fill:#b8e986,stroke:#333,stroke-width:2px,color:#000;
+    
+    class subaxis_1,subaxis_2,subaxis_3 top;
+    class layer2_1,layer2_2,layer2_3 mid;
+    class layer3_1,layer3_2,layer3_3 bot;
+```
+
+## 📖 核心章节概览 (Quick Start)
 
 本项目基于 Vue 驱动的 **VitePress** 构建，提供极致的阅读体验。
 

@@ -1,0 +1,16 @@
+name: "Feature Request / 内容补充"
+description: "建议添加新的 AI Agent 框架或分析维度"
+title: "[FEATURE] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "感谢您为《2026 AI Agent 终极进化史》贡献新想法！"
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "补充建议"
+      description: "您希望增加什么内容？（例如：新的国内 Agent 框架评测、新的开源大模型进展等）"
+      placeholder: "我建议增加关于..."
+    validations:
+      required: true
