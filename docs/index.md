@@ -5,6 +5,9 @@ hero:
   name: "Agentic OS 2026"
   text: "重构工作流：中国 AI Agent 终极演进"
   tagline: "深度解析 2026 国内大模型与 Agent 架构生态体系。详尽的技术底层参考指南。"
+  image:
+    src: /logo.png
+    alt: Cute Anime AI Logo
   actions:
     - theme: brand
       text: 开始阅读
