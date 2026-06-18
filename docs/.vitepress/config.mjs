@@ -8,7 +8,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    logo: '/anime-logo.png',
+    logo: '/miku-logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/intro' }
