@@ -14,6 +14,6 @@
 
 ## 🤝 欢迎加入
 这个项目不是静态的，它将随着 AI 领域的爆炸性发展而持续演进。
-如果您发现了新的架构模式、测试基准或底层协议，欢迎查阅我们的 [贡献指南](../CONTRIBUTING.md) 并提交 Pull Request！
+如果您发现了新的架构模式、测试基准或底层协议，欢迎查阅我们的 [贡献指南](https://github.com/Electricitysheep/2026-ai-agent-book/blob/main/CONTRIBUTING.md) 并提交 Pull Request！
 
 > *The future belongs to those who build the underlying engines of intelligence.*
