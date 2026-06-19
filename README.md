@@ -1,6 +1,10 @@
 <div align="center">
 
+<img src="./assets/banner.png" alt="Agentic OS 2026 Banner" width="100%" />
+
 # 📖 2026 AI Agent Landscape & Architecture
+
+**中文版** | **[English](./README_EN.md)**
 
 [![VitePress](https://img.shields.io/badge/docs-VitePress-42b883?style=for-the-badge&logo=vite)](https://vitepress.dev/)
 [![Pages](https://img.shields.io/badge/GitHub_Pages-Hosted-blue?style=for-the-badge&logo=github)](https://Electricitysheep.github.io/2026-ai-agent-book)
@@ -10,6 +14,12 @@
 > *深度解析 2026 国内大模型与 Agent 架构生态。涵盖架构分析、代码示例、以及多模态技术栈的完整参考体系。*
 
 </div>
+
+## 🔥 Awesome Agents 2026 (高价值工具与框架导航)
+我们整理了一份详尽的 2026 必看 AI Agent 框架与工具集合。如果您想快速寻找合适的生态工具，请直接查看这份列表：
+👉 **[点击这里查看 AWESOME_AGENTS.md](./AWESOME_AGENTS.md)**
+
+---
 
 ## 🌟 项目亮点 (Why this repository?)
 不同于常规的链接导航仓库，本项目对标大厂系统设计规范，提供了详尽的底层协议分析、代码案例、基准测试，以及各核心平台的架构横向对比。我们深入剖析了从云端沙盒、MCP 协议到系统级控制的演进历程。

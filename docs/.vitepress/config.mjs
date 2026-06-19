@@ -11,13 +11,15 @@ export default defineConfig({
     logo: '/niche-lain.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/intro' }
+      { text: 'Guide', link: '/intro' },
+      { text: 'About', link: '/about' }
     ],
     sidebar: [
       {
         text: '序章',
         items: [
-          { text: 'Agentic OS 的崛起', link: '/intro' }
+          { text: 'Agentic OS 的崛起', link: '/intro' },
+          { text: '关于本项目', link: '/about' }
         ]
       },
       {
