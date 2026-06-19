@@ -8,12 +8,17 @@
 
 [![VitePress](https://img.shields.io/badge/docs-VitePress-42b883?style=for-the-badge&logo=vite)](https://vitepress.dev/)
 [![Pages](https://img.shields.io/badge/GitHub_Pages-Hosted-blue?style=for-the-badge&logo=github)](https://Electricitysheep.github.io/2026-ai-agent-book)
+[![Stars](https://img.shields.io/github/stars/Electricitysheep/2026-ai-agent-book?style=for-the-badge&color=yellow)](https://github.com/Electricitysheep/2026-ai-agent-book/stargazers)
+[![Forks](https://img.shields.io/github/forks/Electricitysheep/2026-ai-agent-book?style=for-the-badge&color=orange)](https://github.com/Electricitysheep/2026-ai-agent-book/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-> *深度解析 2026 国内大模型与 Agent 架构生态。涵盖架构分析、代码示例、以及多模态技术栈的完整参考体系。*
+> *为您节省 100+ 小时研读晦涩文档的时间。深度解析 2026 国内大模型与 Agent 架构生态。涵盖架构分析、代码示例、以及多模态技术栈的完整参考体系。*
 
 </div>
+
+> ⏳ **持续追踪更新预警 (2026 State of the Art)** <br>
+> *本项目将伴随 2026 年大模型生态的爆炸式演进保持每周更新！请立刻点亮右上角的 ⭐️ **Star**，随时获取国内最前沿 Agent 架构的硬核剖析与最新动态，切勿走失！*
 
 ## 🔥 Awesome Agents 2026 (高价值工具与框架导航)
 我们整理了一份详尽的 2026 必看 AI Agent 框架与工具集合。如果您想快速寻找合适的生态工具，请直接查看这份列表：
@@ -108,6 +113,10 @@ npm run docs:dev
 
 ## 🤝 参与贡献 (Contributing)
 我们非常欢迎开源社区的贡献者参与进来，补充最新的 AI Agent 技术内幕。请参阅 [CONTRIBUTING.md](./CONTRIBUTING.md) 了解详细规范。
+
+## 📈 Star 增长趋势 (Star History)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Electricitysheep/2026-ai-agent-book&type=Date)](https://star-history.com/#Electricitysheep/2026-ai-agent-book&Date)
 
 ## 📜 许可证 (License)
 本项目采用 [MIT License](./LICENSE) 协议开源。

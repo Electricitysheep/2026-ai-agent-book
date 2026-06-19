@@ -44,7 +44,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/10k-ai-agent-book' }
+      { icon: 'github', link: 'https://github.com/Electricitysheep/2026-ai-agent-book' }
     ]
   }
 })

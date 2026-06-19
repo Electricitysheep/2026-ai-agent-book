@@ -8,12 +8,17 @@
 
 [![VitePress](https://img.shields.io/badge/docs-VitePress-42b883?style=for-the-badge&logo=vite)](https://Electricitysheep.github.io/2026-ai-agent-book)
 [![Pages](https://img.shields.io/badge/GitHub_Pages-Hosted-blue?style=for-the-badge&logo=github)](https://Electricitysheep.github.io/2026-ai-agent-book)
+[![Stars](https://img.shields.io/github/stars/Electricitysheep/2026-ai-agent-book?style=for-the-badge&color=yellow)](https://github.com/Electricitysheep/2026-ai-agent-book/stargazers)
+[![Forks](https://img.shields.io/github/forks/Electricitysheep/2026-ai-agent-book?style=for-the-badge&color=orange)](https://github.com/Electricitysheep/2026-ai-agent-book/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-> *An in-depth analysis of the 2026 Chinese LLM and Agent Architecture ecosystem. A comprehensive reference guide covering architectural paradigms, code implementations, and multimodal tech stacks.*
+> *Save 100+ hours of reading messy documentation. Here is the distilled architecture of China's top AI Agents. A comprehensive reference guide covering architectural paradigms, code implementations, and multimodal tech stacks.*
 
 </div>
+
+> ⏳ **STATE OF THE ART: Continuously Updated for 2026** <br>
+> *This document tracks the explosive evolution of the LLM ecosystem weekly. Hit the ⭐️ **Star** button to stay updated with the absolute bleeding edge of Chinese Agent architectures.*
 
 ## 🌟 Why this repository?
 Unlike typical "awesome lists" or link aggregators, this project provides a **deep dive into system design patterns, underlying protocol analysis (MCP), code benchmarks, and horizontal architectural comparisons** of the core Chinese AI Agent platforms. We analyze the evolution from cloud sandboxes to OS-level integrations.
@@ -112,6 +117,10 @@ Open `http://localhost:5173` in your browser.
 
 ## 🤝 Contributing
 We highly encourage contributions from the open-source community to keep this landscape updated. Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Electricitysheep/2026-ai-agent-book&type=Date)](https://star-history.com/#Electricitysheep/2026-ai-agent-book&Date)
 
 ## 📜 License
 This project is licensed under the [MIT License](./LICENSE).
