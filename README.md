@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Agentic OS 2026 Banner" width="100%" />
+<img src="./assets/banner_v2.png" alt="Agentic OS 2026 Banner" width="100%" />
 
 # 📖 2026 AI Agent Landscape & Architecture
 

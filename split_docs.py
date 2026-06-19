@@ -25,7 +25,7 @@ hero:
       link: /intro
     - theme: alt
       text: GitHub Repo
-      link: https://github.com/10k-ai-agent-book
+      link: https://github.com/Electricitysheep/2026-ai-agent-book
 
 features:
   - title: 全景解析十家巨头
